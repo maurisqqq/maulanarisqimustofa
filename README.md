@@ -1,8 +1,16 @@
-## Hi, I’m [maulana risqi mustofa](https://haimaulana.my.id/)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi, I’m [Maulana Risqi Mustofa](https://haimaulana.my.id/)
+I’m Backend Enthusiast From Jakarta, Indonesia
+- 🌱 I’m currently learning backend framework
+#### Languages and Tools:
+  - PHP
+  - HTML
+  - CSS
+  - Laravel
+  - Flutter 
+  - Dart
+  - MonggoDB
+  - MySQL
+
 
 <!---
 maulanarisqimustofa/maulanarisqimustofa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
