@@ -5,11 +5,15 @@ I’m Backend Enthusiast From Jakarta, Indonesia
   - PHP
   - HTML
   - CSS
+  - Java
+  - JavaScript
   - Laravel
   - Flutter 
-  - Dart
+  - Vue.js
   - MonggoDB
   - MySQL
+  - PHPUnit
+  - JMeter
 
 
 <!---
