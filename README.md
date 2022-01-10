@@ -10,7 +10,7 @@ I’m Backend Enthusiast From Jakarta, Indonesia
   - Laravel
   - Flutter 
   - Vue.js
-  - MonggoDB
+  - MongoDB
   - MySQL
   - PHPUnit
   - JMeter
