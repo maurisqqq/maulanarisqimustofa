@@ -2,14 +2,16 @@
 I’m Backend Enthusiast From Jakarta, Indonesia
 - 🌱 I’m currently learning backend framework
 #### Languages and Tools:
-  - Express Js
-  - Node Js
-  - Laravel 
+  - Laravel
+  - ExpressJs
+  - Net Core/Net Framework 
   - Maven
   - Flutter 
   - Vue JS 
+  - MSSQL Server
   - MongoDB
   - MySQL
+  - PostgreSQL
   - JMeter
   - PHPUnit
  
